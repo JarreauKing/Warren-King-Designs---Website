@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> <a href="https://warrenking.netlify.app/">Warren King</a> Website</h1>
+  <h1> <a href="https://warrenking.netlify.app/">Warren King</a> website</h1>
   <img src="https://github.com/JarreauKing/Warren-King-Designs---Website/blob/main/sampleImage.jpg">
 </div>
 
